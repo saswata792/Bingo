@@ -128,7 +128,7 @@ class bingo1:
                     self.r.display()
                     break
                 elif(g==0):
-                    print("ki labh holo khele dujonei mor")
+                    print("Sorry")
                     break
             n+=1
         
